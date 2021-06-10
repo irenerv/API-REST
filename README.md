@@ -1,4 +1,5 @@
 # API-REST
+# CareCi:
 
 La herramienta/tecnología:
 React Native: Se desarrollará el front-end y el back-end con React Native y Node.js. Con estas tecnologías también se implementará un sistema de autenticación, lo que permitirá tener una organización donde el usuario sólo tenga los permisos para acceder a determinadas secciones.
